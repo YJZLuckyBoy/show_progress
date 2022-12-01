@@ -3,7 +3,7 @@
 
 ## How to use
   ```
-  git clone git@github.com:YJZLuckyBoy/show_progress.git
+  git clone https://github.com/YJZLuckyBoy/show_progress.git
   mkdir build && cd build
   cmake ..
   make
